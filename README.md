@@ -6,7 +6,7 @@ Based on the example from this [blog](https://posener.github.io/http2/)
 
 ## Prerequisite
 
-HTTP2 enforces HTTP2. In order to generate the private key and certificate run:
+HTTP2 enforces HTTPS. In order to generate the private key and certificate run:
 
 
 ```
